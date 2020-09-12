@@ -1,0 +1,14 @@
+# Configuración para CORS
+# '[/**]' indica que se aplique a todas las url, configurandose un map de java donde el valor es la ruta
+
+spring:
+  cloud:
+    gateway:       globalcors:        corsConfigurations:          '[/**]':
+            allowedOrigins: ['http://localhost:4200']
+            allowedHeaders: 
+              - Content-Type
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE

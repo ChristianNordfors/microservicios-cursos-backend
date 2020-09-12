@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nordfors.microservicios.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1598440591262"/>
+    <typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nordfors.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1598643633550"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nordfors.microservicios.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1598440623873"/>
+    <typeInfo handle="=microservicios-cursos/C:\/Users\/Christian\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.3.3.RELEASE\/spring-data-commons-2.3.3.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.3.3.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1598024785650"/>
+    <typeInfo handle="=microservicios-respuestas/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nordfors.microservicios.app.respuestas.services{RespuestaService.java[RespuestaService" modifiers="513" timestamp="1598714544966"/>
+</typeInfoHistroy>
